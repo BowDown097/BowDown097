@@ -23,32 +23,22 @@
 </p>
 
 ## Technologies
-### Actively Using
 <p align="left">
   <img alt="Artix Linux" width="48px" height="48px" src="https://gitea.artixlinux.org/avatars/147489ad50c47562f65589ade8e855f2" />
+  <img alt="Bash" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+  <img alt="C" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img alt="C++" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img alt="C#" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="Firebase" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+  <img alt="HTML5" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="Java" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img alt="JavaScript" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img alt="Lua" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
   <img alt="Photoshop" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
   <img alt="Python" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="Qt" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" />
   <img alt="Vim" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
   <img alt="Visual Studio Code" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-</p>
-
-### Learning
-<p align="left">
-  <img alt="Bash" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-  <img alt="C" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img alt="Lua" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
-</p>
-
-### Not Really Using Anymore
-<p align="left">
-  <img alt="HTML5" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img alt="Java" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="JavaScript" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="Windows" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 </p>
 
 ---
