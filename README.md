@@ -16,7 +16,7 @@
   <a href="mailto:bowdown097@sneed.church">
 		<img src="https://img.shields.io/badge/Email-bowdown097%40sneed.church-brightgreen?logo=mail.ru" />
 	</a>
-  <img src="https://img.shields.io/badge/Matrix-bowywowy%3Amatrix.org-brightgreen?logo=matrix" />
+  <img src="https://img.shields.io/badge/Matrix-bowdown097%3Asneed.church-brightgreen?logo=matrix" />
   <a href="https://steamcommunity.com/id/bowdown097">
 		<img src="https://img.shields.io/badge/Steam-bowdown097-brightgreen?logo=steam" />
 	</a>
