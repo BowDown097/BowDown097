@@ -22,7 +22,7 @@
 	</a>
 </p>
 
-## Technologies
+## Skillset
 <p align="left">
   <img alt="Artix Linux" width="48px" height="48px" src="https://gitea.artixlinux.org/avatars/147489ad50c47562f65589ade8e855f2" />
   <img alt="Bash" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
