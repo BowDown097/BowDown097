@@ -1,7 +1,7 @@
 ### Hi there, I'm Bow 👋
 
 ## About Me
-- 🔭 I’m currently working on [a pretty neat Discord bot](https://github.com/BowDown097/RRBot), [Bloons TD Battles 2 mods](https://github.com/BowDown097/Bloons-Mods), and some small, private projects that I may or may not release.
+- 🔭 I’m currently working on [a pretty neat Discord bot](https://github.com/BowDown097/RRBot), [Bloons mods](https://github.com/BowDown097/Bloons-Mods), a Qt [frontend](https://github.com/BowDown097/youtube-qt) and [library](https://github.com/BowDown097/innertube-qt) for YouTube, and some small, private projects that I may or may not release.
 
 ## Contacts
 <p>
