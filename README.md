@@ -5,13 +5,6 @@
 
 ## Contacts
 <p>
-	<a href="https://discord.gg/nuMvgkP" alt="Discord Server 1">
-		<img src="https://img.shields.io/discord/504782676331331584?label=BTD6%20Mods%20%26%20Discussion&logo=discord" />
-	</a>
-  <a href="https://discord.gg/USpJnaaNap" alt="Discord Server 2">
-		<img src="https://img.shields.io/discord/809485099238031420?label=Rush%20Reborn%20%7C%20BTDB2%20Mods&logo=discord" />
-	</a>
-  <br/>
 	<img src="https://img.shields.io/badge/Discord-%40BowDown097%238946-brightgreen?logo=discord" />
   <a href="mailto:bowdown097@sneed.church">
 		<img src="https://img.shields.io/badge/Email-bowdown097%40sneed.church-brightgreen?logo=mail.ru" />
