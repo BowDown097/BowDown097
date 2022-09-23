@@ -1,6 +1,7 @@
 ### Hi there, I'm Bow 👋
 
 ## About Me
+- 🍶 I'm a Yogurt Male
 - 🔭 I’m currently working on [a pretty neat Discord bot](https://github.com/BowDown097/RRBot), [Bloons mods](https://github.com/BowDown097/Bloons-Mods), a Qt [frontend](https://github.com/BowDown097/youtube-qt) and [library](https://github.com/BowDown097/innertube-qt) for YouTube, and some small, private projects that I may or may not release.
 
 ## Contacts
