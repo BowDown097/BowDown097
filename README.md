@@ -1,8 +1,5 @@
 ### Hi there, I'm Bow 👋
 
-## About Me
-- 🔭 I’m currently working on [a pretty neat Discord bot](https://github.com/BowDown097/RRBot), [Bloons mods](https://github.com/BowDown097/Bloons-Mods), a Qt [frontend](https://github.com/BowDown097/QtTube) and [library](https://github.com/BowDown097/innertube-qt) for YouTube, and some small, private projects that I may or may not release.
-
 ## Contacts
 <p>
 	<img src="https://img.shields.io/badge/Discord-%40BowDown097%238946-brightgreen?logo=discord" />
@@ -18,12 +15,10 @@
 ## Skillset
 <p align="left">
   <img alt="Artix Linux" width="48px" height="48px" src="https://gitea.artixlinux.org/avatars/147489ad50c47562f65589ade8e855f2" />
-  <img alt="Bash" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
   <img alt="C" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img alt="C++" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img alt="C#" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
   <img alt="Firebase" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-  <img alt="HTML5" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img alt="Java" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
   <img alt="JavaScript" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="Lua" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" />
